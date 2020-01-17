@@ -1,4 +1,4 @@
-# Make Space for the future
+# Simple Morphological Operation Dialation
 
 Hi ! The program follows the edge of a letter in order to make it more bold!
 
