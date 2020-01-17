@@ -98,8 +98,8 @@ def dilation(img, kernel_size = 3, border= 10 ):
 figure( dpi=120 )
 
 #plt.imshow(chars)   # BEFORE
-
-plt.imshow(dilation(chars, kernel_size = 3, border = 20)) 
+dilated = dilation(chars, kernel_size = 3, border = 20)
+plt.imshow(dilated) 
 plt.show()
-
-
+#plt.imshow(dilated) 
+#plt.savefig("dilated.jpeg")

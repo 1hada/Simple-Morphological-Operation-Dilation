@@ -36,4 +36,8 @@ If you want to use your own black and white text image please change line # 18
 chars = plt.imread('text_image_file_name.jpg')
 ```
 
-
+If you want to save the dilated version uncomment line #104 and 105
+```
+#plt.imshow(dilated) 
+#plt.savefig("dilated.jpeg")
+```
