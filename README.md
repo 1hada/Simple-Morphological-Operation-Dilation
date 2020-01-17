@@ -4,7 +4,7 @@ Hi ! The program follows the edge of a letter in order to make it more bold!
 
 Here's a demo of what it can do !
 
-![Directory Flasher Demo](https://raw.githubusercontent.com/1hada/Simple-Morphological-Operation-Dilation/master/dilation_demo.gif)
+![Dilation Demo](https://raw.githubusercontent.com/1hada/Simple-Morphological-Operation-Dilation/master/dilation_demo.gif)
 
 
 
